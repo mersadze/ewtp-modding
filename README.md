@@ -15,13 +15,9 @@
   - [Mesh Replacement](#mesh-replacement)
 - [Contributing](#contributing)
 
----
-
 ## Mods
 
 - [UltraRealism](https://www.moddb.com/mods/emily-wants-to-play-ultra-realism-mod) by [@mersadze](https://github.com/mersadze)
-
----
 
 ## Tutorials
 
@@ -37,10 +33,6 @@ A step-by-step guide on editing `.uasset` files to modify game behavior, assets,
 How to extract and replace meshes from the base game
 > [**Read the Mesh Replacement Guide**](tutorials/mesh_replacement.md)
 
----
-
 ## Contributing
 
 If you want to share your mods, write tutorials, or improve this repository, refer to [CONTRIBUTING.md](CONTRIBUTING.md).
-
----
