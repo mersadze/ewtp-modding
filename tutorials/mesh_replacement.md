@@ -1,6 +1,6 @@
 # Mesh Replacement
 
-**NOTE** - check the `textures tutorial` where I explain how to unpack in much more detail -> [Tutorial](texture_modding.md)
+**NOTE** - check the [textures tutorial](texture_modding.md) where I explain how to unpack in much more detail.
 
 To replace a mesh in EWTP, we'll need to first export the mesh file using [UE Viewer](https://www.gildor.org/en/projects/umodel#files)
 Exported mesh format is `.psk` and animations are in `.psa` format.
