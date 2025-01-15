@@ -1,6 +1,6 @@
 # .UAsset Modding
 
-**NOTE** - check the `textures tutorial` where I explain how to unpack in much more detail -> [Tutorial](texture_modding.md)
+**NOTE** - check the [textures tutorial](texture_modding.md) where I explain how to unpack in much more detail.
 
 Modifying `.uasset` files without some third-party software can be a little difficult.
 Usually, if you've got the right Unreal Engine version installed (the one which matches the engine game was made in), you can oftentimes open any **.uasset** file (It could be a texture, mesh, animation, material, blueprint, etc.)
