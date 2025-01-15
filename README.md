@@ -18,6 +18,7 @@
 ## Mods
 
 - [UltraRealism](https://www.moddb.com/mods/emily-wants-to-play-ultra-realism-mod) by [@mersadze](https://github.com/mersadze)
+- [GeorgianTranslationPack](https://www.moddb.com/mods/emily-wants-to-play-georgian-translation-pack) by [@mersadze](https://github.com/mersadze)
 
 ## Tutorials
 
