@@ -9,7 +9,7 @@ Modding textures for EWTP (or any **UE4 game**) involves unpacking game files, a
 
 ## Getting Started: Tools
 
-Before starting the modding process, extract `UnrealPak` and `UE4-DDS-Tool`
+Before starting the modding process, extract the tool zip files.
 
 ## Unpacking
 
