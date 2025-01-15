@@ -13,9 +13,9 @@ Before starting the modding process, extract the tool zip files.
 
 ## Unpacking
 
-- Create a new folder on your desktop, call it whatever you want (e.g. EWTP-Extracted), it'll be the folder **where you'll be extracting the game files**
-- Go to game's root folder
-- Navigate to `\EmilyWantsToPlay\Content\Paks`
+1. Create a new folder on your desktop, call it whatever you want (e.g. EWTP-Extracted), it'll be the folder **where you'll be extracting the game files**
+2. Go to game's root folder
+3. Navigate to `\EmilyWantsToPlay\Content\Paks`
 
 In this directory, you'll see a large `.pak` file called `EmilyWantsToPlay-WindowsNoEditor`, this is the **file that contains entire game contents**, every `Blueprint`, `Texture`, `Mesh`, etc.
 
@@ -28,8 +28,8 @@ After the program has finished the unpacking process, head to the folder `EmilyW
 
 If you check any folder inside this dir, you'll see that files are in `.uasset` format, in order to unpack these files, we need to use [UE Viewer](https://www.gildor.org/en/projects/umodel)
 
-- Download and extract the archive
-- Open the `umodel.exe`
+1. Download and extract the archive
+2. Open the `umodel.exe`
 
 Once you've opened the **.exe** , in the path input, select the `EmilyWantsToPlay` dir from the extracted game folder (`EmilyWantsToPlay-WindowsNoEditor\EmilyWantsToPlay`).
 Now check the checkbox `Override game detection` and choose **Unreal Engine 4** and in the second dropdown, select the engine version `4.9`.
